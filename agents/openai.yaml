@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java AI Agent Engineering"
+  short_description: "Build RAG, MCP, and controlled Java agents"
+  default_prompt: "Use $jc-ai-skill to design a safe Java AI workflow for this business requirement."
